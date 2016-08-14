@@ -1,0 +1,36 @@
+#kitten {
+  height: 100px;
+}
+
+a:link {
+  color: white;
+  font-size: 20px
+}
+
+a:visited {
+  color:yellow;
+}
+
+
+h3 {
+  font-family: Verdana, Arial, Georgia;
+  font-size: 48px;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-image: url("http://people.turing.io/assets/students/dao_mike-f65e4d08a364c23f4e5db13494f30394.jpg");
+  background-repeat: scroll;
+  color: white;
+}
+
+div  {
+  height: 300px;
+  width: 400px;
+
+}
+
+div.container {
+  margin: 10px auto 10px auto;
+}
